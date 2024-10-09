@@ -9,6 +9,6 @@ function askScore() {
     } else if (score < 70 && score > 0) {
         alert("Needs Improvement.");
     } else {
-        alert("Invalid input.")
+        alert("Invalid input.");
     }
 }
